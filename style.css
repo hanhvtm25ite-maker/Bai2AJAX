@@ -1,0 +1,41 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    background-color: #f5f5f5;
+}
+
+h1 {
+    color: blue;
+    text-shadow: 2px 2px red;
+}
+
+select {
+    padding: 8px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+#info {
+    background-color: #f0808a;
+    padding: 15px;
+    margin-top: 10px;
+    overflow-x: auto;
+}
+
+table {
+    border-collapse: collapse;
+    background-color: white;
+    width: 100%;
+}
+
+th {
+    background-color: #ccffcc;
+    color: blue;
+}
+
+th, td {
+    border: 1px solid #999;
+    padding: 8px;
+    text-align: left;
+}
